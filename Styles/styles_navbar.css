@@ -5,13 +5,15 @@
     width: 100%;
     padding: 12px 14px;
     display: flex;
-    justify-content: space-between;
+    
     align-items: center;
     z-index: 100;
     background-color:#051f20;
     overflow: hidden;
     float: right;
+    
 }
+
 
 a{
     text-decoration: none;
